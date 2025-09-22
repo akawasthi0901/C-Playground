@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dls.dir/src/main.cpp.o CMakeFiles/dls.dir/src/LogAggregator.cpp.o CMakeFiles/dls.dir/src/LogParser.cpp.o CMakeFiles/dls.dir/src/AlertManager.cpp.o -o dls 

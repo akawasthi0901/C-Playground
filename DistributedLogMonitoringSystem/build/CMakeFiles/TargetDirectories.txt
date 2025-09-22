@@ -1,0 +1,3 @@
+/mnt/c/Users/akash/Downloads/Downloads/DistributedLogMonitoringSystem/build/CMakeFiles/dls.dir
+/mnt/c/Users/akash/Downloads/Downloads/DistributedLogMonitoringSystem/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/akash/Downloads/Downloads/DistributedLogMonitoringSystem/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+2025-09-21 12:00 INFO Application started
+2025-09-21 12:01 WARN Low memory detected
+2025-09-21 12:02 ERROR Failed to connect to database
+2025-09-21 12:03 INFO Retrying connection
+2025-09-21 12:04 ERROR Connection failed again
